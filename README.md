@@ -11,7 +11,3 @@ I am a find year student at uGSOT Pune.
 - Problem solving
 - Basic git 
 
-# Project 
-
-- Alpha @ : its about OS
-- Alpha @1 : its about AIOS
